@@ -1,0 +1,13 @@
+.cart h1{
+  text-align: center;
+  align-items: center;
+}
+.cart-btn{
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+  color: var(--subtitle);
+  background-color: var(--secondary);
+  text-align: center;
+  font-size: medium;
+}
